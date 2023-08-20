@@ -7,8 +7,9 @@
   number = {4},
   pages = {661--701},
   volume = {45},
-  abstract = {Theoretical models specifying indirect or mediated effects are common in the social sciences. An indirect effect exists when an independent variable's influence on the dependent variable is mediated through an intervening variable. Classic approaches to assessing such mediational hypotheses (Baron \& Kenny, 1986; Sobel, 1982) have in recent years been supplemented by computationally intensive methods such as bootstrapping, the distribution of the product methods, and hierarchical Bayesian Markov chain Monte Carlo (MCMC) methods. These different approaches for assessing mediation are illustrated using data from Dunn, Biesanz, Human, and Finn (2007). However, little is known about how these methods perform relative to each other, particularly in more challenging situations, such as with data that are incomplete and/or nonnormal. This article presents an extensive Monte Carlo simulation evaluating a host of approaches for assessing mediation. We examine Type I error rates, power, and coverage. We study normal and nonnormal data as well as complete and incomplete data. In addition, we adapt a method, recently proposed in statistical literature, that does not rely on confidence intervals (CIs) to test the null hypothesis of no indirect effect. The results suggest that the new inferential method--the partial posterior p value--slightly outperforms existing ones in terms of maintaining Type I error rates while maximizing power, especially with incomplete data. Among confidence interval approaches, the bias-corrected accelerated (BCa) bootstrapping approach often has inflated Type I error rates and inconsistent coverage and is not recommended.In contrast, the bootstrapped percentile confidence interval and the hierarchical Bayesian MCMC method perform best overall,maintaining Type I error rates,exhibiting reasonable power, and producing stable and accurate coverage rates.},
+  abstract = {Theoretical models specifying indirect or mediated effects are common in the social sciences. An indirect effect exists when an independent variable's influence on the dependent variable is mediated through an intervening variable. Classic approaches to assessing such mediational hypotheses (Baron \& Kenny, 1986; Sobel, 1982) have in recent years been supplemented by computationally intensive methods such as bootstrapping, the distribution of the product methods, and hierarchical Bayesian Markov chain Monte Carlo (MCMC) methods. These different approaches for assessing mediation are illustrated using data from Dunn, Biesanz, Human, and Finn (2007). However, little is known about how these methods perform relative to each other, particularly in more challenging situations, such as with data that are incomplete and/or nonnormal. This article presents an extensive Monte Carlo simulation evaluating a host of approaches for assessing mediation. We examine Type I error rates, power, and coverage. We study normal and nonnormal data as well as complete and incomplete data. In addition, we adapt a method, recently proposed in statistical literature, that does not rely on confidence intervals (CIs) to test the null hypothesis of no indirect effect. The results suggest that the new inferential method--the partial posterior p value--slightly outperforms existing ones in terms of maintaining Type I error rates while maximizing power, especially with incomplete data. Among confidence interval approaches, the bias-corrected accelerated (BCa) bootstrapping approach often has inflated Type I error rates and inconsistent coverage and is not recommended. In contrast, the bootstrapped percentile confidence interval and the hierarchical Bayesian MCMC method perform best overall, maintaining Type I error rates, exhibiting reasonable power, and producing stable and accurate coverage rates.},
   publisher = {Informa {UK} Limited},
+  annotation = {mediation, mediation-bootstrap, mediation-bayesian},
 }
 
 @Article{Blanca-Arnau-LopezMontiel-etal-2013,
@@ -64,7 +65,7 @@
   abstract = {Mediation is one concept that has shaped numerous theories. The list of problems associated with mediation models, however, has been growing. Mediation models based on cross-sectional data can produce unexpected estimates, so much so that making longitudinal or causal inferences is inadvisable. Even longitudinal mediation models have faults, as parameter estimates produced by these models are specific to the lag between observations, leading to much debate over appropriate lag selection. Using continuous time models (CTMs) rather than commonly employed discrete time models, one can estimate lag-independent parameters. We demonstrate methodology that allows for continuous time mediation analyses, with attention to concepts such as indirect and direct effects, partial mediation, the effect of lag, and the lags at which relations become maximal. A simulation compares common longitudinal mediation methods with CTMs. Reanalysis of a published covariance matrix demonstrates that CTMs can be fit to data used in longitudinal mediation studies.},
   publisher = {Informa {UK} Limited},
   keywords = {continuous time models, cross-lagged panel model, exact discrete model, longitudinal mediation, mediation},
-  annotation = {ild, ild-mediation},
+  annotation = {mediation, mediation-longitudinal},
 }
 
 @Article{Dudgeon-2017,
@@ -105,6 +106,7 @@
   volume = {24},
   abstract = {A content analysis of 2 years of Psychological Science articles reveals inconsistencies in how researchers make inferences about indirect effects when conducting a statistical mediation analysis. In this study, we examined the frequency with which popularly used tests disagree, whether the method an investigator uses makes a difference in the conclusion he or she will reach, and whether there is a most trustworthy test that can be recommended to balance practical and performance considerations. We found that tests agree much more frequently than they disagree, but disagreements are more common when an indirect effect exists than when it does not. We recommend the bias-corrected bootstrap confidence interval as the most trustworthy test if power is of utmost concern, although it can be slightly liberal in some circumstances. Investigators concerned about Type I errors should choose the Monte Carlo confidence interval or the distribution-of-the-product approach, which rarely disagree. The percentile bootstrap confidence interval is a good compromise test.},
   publisher = {{SAGE} Publications},
+  annotation = {mediation, mediation-bootstrap, mediation-montecarlo, mediation-prodclin},
 }
 
 @Article{Hunter-2017,
@@ -161,6 +163,7 @@
   abstract = {Bootstrapping is an analytical tool commonly used in psychology to test the statistical significance of the indirect effect in mediation models. Bootstrapping proponents have particularly advocated for its use for samples of 20-80 cases. This advocacy has been heeded, especially in the Journal of Applied Psychology, as researchers are increasingly utilizing bootstrapping to test mediation with samples in this range. We discuss reasons to be concerned with this escalation, and in a simulation study focused specifically on this range of sample sizes, we demonstrate not only that bootstrapping has insufficient statistical power to provide a rigorous hypothesis test in most conditions but also that bootstrapping has a tendency to exhibit an inflated Type I error rate. We then extend our simulations to investigate an alternative empirical resampling method as well as a Bayesian approach and demonstrate that they exhibit comparable statistical power to bootstrapping in small samples without the associated inflated Type I error. Implications for researchers testing mediation hypotheses in small samples are presented. For researchers wishing to use these methods in their own research, we have provided R syntax in the online supplemental materials.},
   publisher = {American Psychological Association ({APA})},
   keywords = {mediation, bootstrapping, permutation, Bayes},
+  annotation = {mediation, mediation-bootstrap, mediation-bayesian},
 }
 
 @Article{Kurtzer-Sochat-Bauer-2017,
@@ -255,7 +258,7 @@
   volume = {6},
   abstract = {Monte Carlo simulation is a useful but underutilized method of constructing confidence intervals for indirect effects in mediation analysis. The Monte Carlo confidence interval method has several distinct advantages over rival methods. Its performance is comparable to other widely accepted methods of interval construction, it can be used when only summary data are available, it can be used in situations where rival methods (e.g., bootstrapping and distribution of the product methods) are difficult or impossible, and it is not as computer-intensive as some other methods. In this study we discuss Monte Carlo confidence intervals for indirect effects, report the results of a simulation study comparing their performance to that of competing methods, demonstrate the method in applied examples, and discuss several software options for implementation in applied settings.},
   publisher = {Informa {UK} Limited},
-  annotation = {mediation, mediation-montecarlo, mediation-bootstrap, semmcci},
+  annotation = {mediation, mediation-montecarlo, mediation-bootstrap},
 }
 
 @Article{Rosseel-2012,
@@ -297,7 +300,7 @@
   abstract = {Complex mediation models, such as a two-mediator sequential model, have become more prevalent in the literature. To test an indirect effect in a two-mediator model, we conducted a large-scale Monte Carlo simulation study of the Type I error, statistical power, and confidence interval coverage rates of 10 frequentist and Bayesian confidence/credible intervals (CIs) for normally and nonnormally distributed data. The simulation included never-studied methods and conditions (e.g., Bayesian CI with flat and weakly informative prior methods, two model-based bootstrap methods, and two nonnormality conditions) as well as understudied methods (e.g., profile-likelihood, Monte Carlo with maximum likelihood standard error [MC-ML] and robust standard error [MC-Robust]). The popular BC bootstrap showed inflated Type I error rates and CI under-coverage. We recommend different methods depending on the purpose of the analysis. For testing the null hypothesis of no mediation, we recommend MC-ML, profile-likelihood, and two Bayesian methods. To report a CI, if data has a multivariate normal distribution, we recommend MC-ML, profile-likelihood, and the two Bayesian methods; otherwise, for multivariate nonnormal data we recommend the percentile bootstrap. We argue that the best method for testing hypotheses is not necessarily the best method for CI construction, which is consistent with the findings we present.},
   keywords = {indirect effect, confidence interval, sequential mediation, Bayesian credible interval},
   publisher = {Informa {UK} Limited},
-  annotation = {mediation, mediation-bayesian, mediation-bootstrap, mediation-lb, mediation-montecarlo, semmcci},
+  annotation = {mediation, mediation-bayesian, mediation-bootstrap, mediation-likelihood, mediation-montecarlo},
 }
 
 @Article{Tofighi-MacKinnon-2015,
@@ -312,7 +315,7 @@
   abstract = {One challenge in mediation analysis is to generate a confidence interval (CI) with high coverage and power that maintains a nominal significance level for any well-defined function of indirect and direct effects in the general context of structural equation modeling (SEM). This study discusses a proposed Monte Carlo extension that finds the CIs for any well-defined function of the coefficients of SEM such as the product of $k$ coefficients and the ratio of the contrasts of indirect effects, using the Monte Carlo method. Finally, we conduct a small-scale simulation study to compare CIs produced by the Monte Carlo, nonparametric bootstrap, and asymptotic-delta methods. Based on our simulation study, we recommend researchers use the Monte Carlo method to test a complex function of indirect effects.},
   keywords = {confidence interval, mediation analysis, Monte Carlo},
   publisher = {Informa {UK} Limited},
-  annotation = {mediation, mediation-bootstrap, mediation-delta, mediation-montecarlo, semmcci},
+  annotation = {mediation, mediation-bootstrap, mediation-delta, mediation-montecarlo},
 }
 
 @Article{vanBuuren-GroothuisOudshoorn-2011,
@@ -369,6 +372,7 @@
   abstract = {In light of current concerns with replicability and reporting false-positive effects in psychology, we examine Type I errors and power associated with 2 distinct approaches for the assessment of mediation, namely the component approach (testing individual parameter estimates in the model) and the index approach (testing a single mediational index). We conduct simulations that examine both approaches and show that the most commonly used tests under the index approach risk inflated Type I errors compared with the joint-significance test inspired by the component approach. We argue that the tendency to report only a single mediational index is worrisome for this reason and also because it is often accompanied by a failure to critically examine the individual causal paths underlying the mediational model. We recommend testing individual components of the indirect effect to argue for the presence of an indirect effect and then using other recommended procedures to calculate the size of that effect. Beyond simple mediation, we show that our conclusions also apply in cases of within-participant mediation and moderated mediation. We also provide a new R-package that allows for an easy implementation of our recommendations.},
   publisher = {American Psychological Association ({APA})},
   keywords = {indirect effects, mediation, joint-significance, bootstrap},
+  annotation = {mediation, mediation-joint},
 }
 
 @Article{Zhang-Wang-2012,
