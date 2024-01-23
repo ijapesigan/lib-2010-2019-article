@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-01-21
+2024-01-23
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -299,6 +299,14 @@ Research*, *46*(5), 816–841.
 Merkel, D. (2014). Docker: Lightweight Linux containers for consistent
 development and deployment. *Linux Journal*, *2014*(239), 2.
 <https://www.linuxjournal.com/content/docker-lightweight-linux-containers-consistent-development-and-deployment>
+
+</div>
+
+<div id="ref-Molenaar-2017" class="csl-entry">
+
+Molenaar, P. C. M. (2017). Equivalent dynamic models. *Multivariate
+Behavioral Research*, *52*(2), 242–258.
+<https://doi.org/10.1080/00273171.2016.1277681>
 
 </div>
 
