@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-12
+2024-02-17
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -17,6 +17,24 @@ Check](https://github.com/ijapesigan/lib-2010-2019-article/actions/workflows/she
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 line-spacing="2">
+
+<div id="ref-Aalen-Roysland-Gran-etal-2016" class="csl-entry">
+
+Aalen, O. O., Røysland, K., Gran, J. M., Kouyos, R., & Lange, T. (2016).
+Can we believe the DAGs? A comment on the relationship between causal
+DAGs and mechanisms. *Statistical Methods in Medical Research*, *25*(5),
+2294–2314. <https://doi.org/10.1177/0962280213520436>
+
+</div>
+
+<div id="ref-Aalen-Roysland-Gran-etal-2012" class="csl-entry">
+
+Aalen, O. O., Røysland, K., Gran, J. M., & Ledergerber, B. (2012).
+Causality, mediation and time: A dynamic viewpoint. *Journal of the
+Royal Statistical Society. Series A (Statistics in Society)*, *175*(4),
+831–861. <http://www.jstor.org/stable/23355305>
+
+</div>
 
 <div id="ref-Asparouhov-Hamaker-Muthen-2017" class="csl-entry">
 
