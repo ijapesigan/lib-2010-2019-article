@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-17
+2024-04-10
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -315,6 +315,15 @@ confidence intervals. *Journal of Applied Psychology*, *100*(1),
 
 </div>
 
+<div id="ref-Kossakowski-Groot-Haslbeck-2017" class="csl-entry">
+
+Kossakowski, J. J., Groot, P. C., Haslbeck, J. M. B., Borsboom, D., &
+Wichers, M. (2017). Data from “critical slowing down as a personalized
+early warning signal for depression.” *Journal of Open Psychology Data*,
+*5*. <https://doi.org/10.5334/jopd.29>
+
+</div>
+
 <div id="ref-Kuiper-Oisin-2018" class="csl-entry">
 
 Kuiper, R. M., & Ryan, O. (2018). Drawing conclusions from cross-lagged
@@ -595,6 +604,15 @@ Voelkle, M. C., Oud, J. H. L., Davidov, E., & Schmidt, P. (2012). An SEM
 approach to continuous time modeling of panel data: Relating
 authoritarianism and anomia. *Psychological Methods*, *17*(2), 176–192.
 <https://doi.org/10.1037/a0027543>
+
+</div>
+
+<div id="ref-Wichers-Groot-Psychosystems-2016" class="csl-entry">
+
+Wichers, M., Groot, P. C., Psychosystems, ESM Group, & EWS Group.
+(2016). Critical slowing down as a personalized early warning signal for
+depression. *Psychotherapy and Psychosomatics*, *85*(2), 114–116.
+<https://doi.org/10.1159/000441458>
 
 </div>
 
