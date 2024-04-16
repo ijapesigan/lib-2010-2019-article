@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-04-10
+2024-04-16
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -586,6 +586,14 @@ van Buuren, S., & Groothuis-Oudshoorn, K. (2011).
 <span class="nocase">mice</span>: Multivariate imputation by chained
 equations in R. *Journal of Statistical Software*, *45*(3).
 <https://doi.org/10.18637/jss.v045.i03>
+
+</div>
+
+<div id="ref-VerHoef-2012" class="csl-entry">
+
+Ver Hoef, J. M. (2012). Who invented the delta method? *The American
+Statistician*, *66*(2), 124–127.
+<https://doi.org/10.1080/00031305.2012.687494>
 
 </div>
 
