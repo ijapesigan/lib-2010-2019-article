@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-04-16
+2024-04-30
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -559,6 +559,15 @@ Taylor, A. B., & MacKinnon, D. P. (2012). Four applications of
 permutation methods to testing a single-mediator model. *Behavior
 Research Methods*, *44*(3), 806–844.
 <https://doi.org/10.3758/s13428-011-0181-x>
+
+</div>
+
+<div id="ref-Tibshirani-2011" class="csl-entry">
+
+Tibshirani, R. (2011). Regression shrinkage and selection via the lasso:
+A retrospective. *Journal of the Royal Statistical Society Series B:
+Statistical Methodology*, *73*(3), 273–282.
+<https://doi.org/10.1111/j.1467-9868.2011.00771.x>
 
 </div>
 
