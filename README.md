@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-04-30
+2024-05-16
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -109,6 +109,16 @@ experience sampling method data. *Frontiers in Psychology*, *8*.
 
 </div>
 
+<div id="ref-Deboeck-Boulton-2016" class="csl-entry">
+
+Deboeck, P. R., & Boulton, A. J. (2016). Integration of stochastic
+differential equations using structural equation modeling: A method to
+facilitate model fitting and pedagogy. *Structural Equation Modeling: A
+Multidisciplinary Journal*, *23*(6), 888–903.
+<https://doi.org/10.1080/10705511.2016.1218763>
+
+</div>
+
 <div id="ref-Deboeck-Preacher-2015" class="csl-entry">
 
 Deboeck, P. R., & Preacher, K. J. (2015). No need to be discrete: A
@@ -124,6 +134,23 @@ Demeshko, M., Washio, T., Kawahara, Y., & Pepyolyshev, Y. (2015). A
 novel continuous and structural VAR modeling approach and its
 application to reactor noise analysis. *ACM Transactions on Intelligent
 Systems and Technology*, *7*(2), 1–22. <https://doi.org/10.1145/2710025>
+
+</div>
+
+<div id="ref-Driver-Oud-Voelkle-2017" class="csl-entry">
+
+Driver, C. C., Oud, J. H. L., & Voelkle, M. C. (2017). Continuous time
+structural equation modeling with R package
+<span class="nocase">ctsem</span>. *Journal of Statistical Software*,
+*77*(5). <https://doi.org/10.18637/jss.v077.i05>
+
+</div>
+
+<div id="ref-Driver-Voelkle-2018" class="csl-entry">
+
+Driver, C. C., & Voelkle, M. C. (2018). Hierarchical Bayesian continuous
+time dynamic modeling. *Psychological Methods*, *23*(4), 774–799.
+<https://doi.org/10.1037/met0000168>
 
 </div>
 
@@ -247,6 +274,15 @@ Hayes, A. F., & Scharkow, M. (2013). The relative trustworthiness of
 inferential tests of the indirect effect in statistical mediation
 analysis. *Psychological Science*, *24*(10), 1918–1927.
 <https://doi.org/10.1177/0956797613480187>
+
+</div>
+
+<div id="ref-Hecht-Voelkle-2019" class="csl-entry">
+
+Hecht, M., & Voelkle, M. C. (2019). Continuous-time modeling in
+prevention research: An illustration. *International Journal of
+Behavioral Development*, *45*(1), 19–27.
+<https://doi.org/10.1177/0165025419885026>
 
 </div>
 
