@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2010-2019-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Aalen-Roysland-Gran-etal-2016" class="csl-entry">
 
@@ -192,6 +192,15 @@ Data Analysis*, *71*, 1054–1063.
 Efron, B. (2012). Bayesian inference and the parametric bootstrap. *The
 Annals of Applied Statistics*, *6*(4).
 <https://doi.org/10.1214/12-aoas571>
+
+</div>
+
+<div id="ref-Enders-Fairchild-MacKinnon-2013" class="csl-entry">
+
+Enders, C. K., Fairchild, A. J., & MacKinnon, D. P. (2013). A Bayesian
+approach for estimating mediation effects with missing data.
+*Multivariate Behavioral Research*, *48*(3), 340–369.
+<https://doi.org/10.1080/00273171.2013.784862>
 
 </div>
 
@@ -428,6 +437,15 @@ Research*, *46*(5), 816–841.
 Merkel, D. (2014). Docker: Lightweight Linux containers for consistent
 development and deployment. *Linux Journal*, *2014*(239), 2.
 <https://www.linuxjournal.com/content/docker-lightweight-linux-containers-consistent-development-and-deployment>
+
+</div>
+
+<div id="ref-Miocevic-Gonzalez-Valente-etal-2017" class="csl-entry">
+
+Miocevic, M., Gonzalez, O., Valente, M. J., & MacKinnon, D. P. (2017). A
+tutorial in Bayesian potential outcomes mediation analysis. *Structural
+Equation Modeling: A Multidisciplinary Journal*, *25*(1), 121–136.
+<https://doi.org/10.1080/10705511.2017.1342541>
 
 </div>
 
