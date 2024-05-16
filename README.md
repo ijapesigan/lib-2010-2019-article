@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2010-2019-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Aalen-Roysland-Gran-etal-2016" class="csl-entry">
 
@@ -586,6 +586,24 @@ Schouten, R. M., Lugtig, P., & Vink, G. (2018). Generating missing
 values for simulation purposes: A multivariate amputation procedure.
 *Journal of Statistical Computation and Simulation*, *88*(15),
 2909–2930. <https://doi.org/10.1080/00949655.2018.1491577>
+
+</div>
+
+<div id="ref-Schuurman-Hamaker-2019" class="csl-entry">
+
+Schuurman, N. K., & Hamaker, E. L. (2019). Measurement error and
+person-specific reliability in multilevel autoregressive modeling.
+*Psychological Methods*, *24*(1), 70–91.
+<https://doi.org/10.1037/met0000188>
+
+</div>
+
+<div id="ref-Schuurman-Houtveen-Hamaker-2015" class="csl-entry">
+
+Schuurman, N. K., Houtveen, J. H., & Hamaker, E. L. (2015).
+Incorporating measurement error in n = 1 psychological autoregressive
+modeling. *Frontiers in Psychology*, *6*.
+<https://doi.org/10.3389/fpsyg.2015.01038>
 
 </div>
 
