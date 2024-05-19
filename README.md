@@ -705,6 +705,15 @@ authoritarianism and anomia. *Psychological Methods*, *17*(2), 176–192.
 
 </div>
 
+<div id="ref-Vuorre-Bolger-2017" class="csl-entry">
+
+Vuorre, M., & Bolger, N. (2017). Within-subject mediation analysis for
+experimental data in cognitive psychology and neuroscience. *Behavior
+Research Methods*, *50*(5), 2125–2143.
+<https://doi.org/10.3758/s13428-017-0980-9>
+
+</div>
+
 <div id="ref-Wichers-Groot-Psychosystems-2016" class="csl-entry">
 
 Wichers, M., Groot, P. C., Psychosystems, ESM Group, & EWS Group.
