@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-16
+2024-05-19
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -612,6 +612,15 @@ modeling. *Frontiers in Psychology*, *6*.
 Shrout, P. E. (2011). Commentary: Mediation analysis, causal process,
 and cross-sectional data. *Multivariate Behavioral Research*, *46*(5),
 852–860. <https://doi.org/10.1080/00273171.2011.606718>
+
+</div>
+
+<div id="ref-Singer-2012" class="csl-entry">
+
+Singer, H. (2012). SEM modeling with singular moment matrices part II:
+ML-estimation of sampled stochastic differential equations. *The Journal
+of Mathematical Sociology*, *36*(1), 22–43.
+<https://doi.org/10.1080/0022250x.2010.532259>
 
 </div>
 
