@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-20
+2024-05-21
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2010-2019-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Aalen-Roysland-Gran-etal-2016" class="csl-entry">
 
@@ -321,6 +321,15 @@ Hunter, M. D. (2017). State space modeling in an open source, modular,
 structural equation modeling environment. *Structural Equation Modeling:
 A Multidisciplinary Journal*, *25*(2), 307–324.
 <https://doi.org/10.1080/10705511.2017.1369354>
+
+</div>
+
+<div id="ref-Jensen-Turk-2014" class="csl-entry">
+
+Jensen, M. P., & Turk, D. C. (2014). Contributions of psychology to the
+understanding and treatment of people with chronic pain: Why it matters
+to ALL psychologists. *American Psychologist*, *69*(2), 105–118.
+<https://doi.org/10.1037/a0035641>
 
 </div>
 
