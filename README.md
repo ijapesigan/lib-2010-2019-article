@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-21
+2024-05-22
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -595,6 +595,16 @@ Schouten, R. M., Lugtig, P., & Vink, G. (2018). Generating missing
 values for simulation purposes: A multivariate amputation procedure.
 *Journal of Statistical Computation and Simulation*, *88*(15),
 2909–2930. <https://doi.org/10.1080/00949655.2018.1491577>
+
+</div>
+
+<div id="ref-Schultzberg-Muthen-2017" class="csl-entry">
+
+Schultzberg, M., & Muth’en, B. (2017). Number of subjects and time
+points needed for multilevel time-series analysis: A simulation study of
+dynamic structural equation modeling. *Structural Equation Modeling: A
+Multidisciplinary Journal*, *25*(4), 495–515.
+<https://doi.org/10.1080/10705511.2017.1392862>
 
 </div>
 
