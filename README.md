@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-22
+2024-06-04
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -689,6 +689,14 @@ Modeling: A Multidisciplinary Journal*, *23*(2), 194–205.
 
 </div>
 
+<div id="ref-Usami-Murayama-Hamaker-2019" class="csl-entry">
+
+Usami, S., Murayama, K., & Hamaker, E. L. (2019). A unified framework of
+longitudinal models to examine reciprocal relations. *Psychological
+Methods*, *24*(5), 637–657. <https://doi.org/10.1037/met0000210>
+
+</div>
+
 <div id="ref-vanBuuren-GroothuisOudshoorn-2011" class="csl-entry">
 
 van Buuren, S., & Groothuis-Oudshoorn, K. (2011).
@@ -774,6 +782,26 @@ Social Psychology*, *115*(6), 929–943.
 Zhang, Z., & Wang, L. (2012). Methods for mediation analysis with
 missing data. *Psychometrika*, *78*(1), 154–184.
 <https://doi.org/10.1007/s11336-012-9301-5>
+
+</div>
+
+<div id="ref-Zyphur-Allison-Tay-etal-2019" class="csl-entry">
+
+Zyphur, M. J., Allison, P. D., Tay, L., Voelkle, M. C., Preacher, K. J.,
+Zhang, Z., Hamaker, E. L., Shamsollahi, A., Pierides, D. C., Koval, P.,
+& Diener, E. (2019). From data to causes I: Building a general
+cross-lagged panel model (GCLM). *Organizational Research Methods*,
+*23*(4), 651–687. <https://doi.org/10.1177/1094428119847278>
+
+</div>
+
+<div id="ref-Zyphur-Voelkle-Tay-etal-2019" class="csl-entry">
+
+Zyphur, M. J., Voelkle, M. C., Tay, L., Allison, P. D., Preacher, K. J.,
+Zhang, Z., Hamaker, E. L., Shamsollahi, A., Pierides, D. C., Koval, P.,
+& Diener, E. (2019). From data to causes II: Comparing approaches to
+panel data analysis. *Organizational Research Methods*, *23*(4),
+688–716. <https://doi.org/10.1177/1094428119847280>
 
 </div>
 
