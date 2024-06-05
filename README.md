@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-06-04
+2024-06-05
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -32,7 +32,7 @@ DAGs and mechanisms. *Statistical Methods in Medical Research*, *25*(5),
 Aalen, O. O., Røysland, K., Gran, J. M., & Ledergerber, B. (2012).
 Causality, mediation and time: A dynamic viewpoint. *Journal of the
 Royal Statistical Society. Series A (Statistics in Society)*, *175*(4),
-831–861. <http://www.jstor.org/stable/23355305>
+831–861. <https://doi.org/10.1111/j.1467-985X.2011.01030.x>
 
 </div>
 
@@ -372,8 +372,8 @@ confidence intervals. *Journal of Applied Psychology*, *100*(1),
 <div id="ref-Kossakowski-Groot-Haslbeck-2017" class="csl-entry">
 
 Kossakowski, J. J., Groot, P. C., Haslbeck, J. M. B., Borsboom, D., &
-Wichers, M. (2017). Data from “critical slowing down as a personalized
-early warning signal for depression.” *Journal of Open Psychology Data*,
+Wichers, M. (2017). Data from ’Critical slowing down as a personalized
+early warning signal for depression’. *Journal of Open Psychology Data*,
 *5*. <https://doi.org/10.5334/jopd.29>
 
 </div>
