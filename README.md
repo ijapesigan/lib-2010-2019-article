@@ -1,10 +1,9 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-08
+2024-07-14
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -37,12 +36,39 @@ Royal Statistical Society. Series A (Statistics in Society)*, *175*(4),
 
 </div>
 
+<div id="ref-Antonakis-Bastardoz-Ronkko-2019" class="csl-entry">
+
+Antonakis, J., Bastardoz, N., & Rönkkö, M. (2019). On ignoring the
+random effects assumption in multilevel models: Review, critique, and
+recommendations. *Organizational Research Methods*, *24*(2), 443–483.
+<https://doi.org/10.1177/1094428119877457>
+
+</div>
+
 <div id="ref-Asparouhov-Hamaker-Muthen-2017" class="csl-entry">
 
 Asparouhov, T., Hamaker, E. L., & Muth’en, B. (2017). Dynamic structural
 equation models. *Structural Equation Modeling: A Multidisciplinary
 Journal*, *25*(3), 359–388.
 <https://doi.org/10.1080/10705511.2017.1406803>
+
+</div>
+
+<div id="ref-Asparouhov-Muthen-2018" class="csl-entry">
+
+Asparouhov, T., & Muth’en, B. (2018). Latent variable centering of
+predictors and mediators in multilevel and time-series models.
+*Structural Equation Modeling: A Multidisciplinary Journal*, *26*(1),
+119–142. <https://doi.org/10.1080/10705511.2018.1511375>
+
+</div>
+
+<div id="ref-Bell-Jones-2014" class="csl-entry">
+
+Bell, A., & Jones, K. (2014). Explaining fixed effects: Random effects
+modeling of time-series cross-sectional and panel data. *Political
+Science Research and Methods*, *3*(1), 133–153.
+<https://doi.org/10.1017/psrm.2014.7>
 
 </div>
 
@@ -68,6 +94,23 @@ Blanca, M. J., Arnau, J., Lopez-Montiel, D., Bono, R., & Bendayan, R.
 Boettiger, C., & Eddelbuettel, D. (2017). An introduction to Rocker:
 Docker containers for R. *The R Journal*, *9*(2), 527.
 <https://doi.org/10.32614/rj-2017-065>
+
+</div>
+
+<div id="ref-Bollen-Brand-2010" class="csl-entry">
+
+Bollen, K. A., & Brand, J. E. (2010). A general panel model with random
+and fixed effects: A structural equations approach. *Social Forces*,
+*89*(1), 1–34. <https://doi.org/10.1353/sof.2010.0072>
+
+</div>
+
+<div id="ref-Bou-Satorra-2017" class="csl-entry">
+
+Bou, J. C., & Satorra, A. (2017). Univariate versus multivariate
+modeling of panel data: Model specification and goodness-of-fit testing.
+*Organizational Research Methods*, *21*(1), 150–196.
+<https://doi.org/10.1177/1094428117715509>
 
 </div>
 
@@ -97,6 +140,16 @@ Curran, P. J., & Bauer, D. J. (2011). The disaggregation of
 within-person and between-person effects in longitudinal models of
 change. *Annual Review of Psychology*, *62*(1), 583–619.
 <https://doi.org/10.1146/annurev.psych.093008.100356>
+
+</div>
+
+<div id="ref-Curran-Howard-Bainter-etal-2014" class="csl-entry">
+
+Curran, P. J., Howard, A. L., Bainter, S. A., Lane, S. T., & McGinley,
+J. S. (2014). The separation of between-person and within-person
+components of individual change over time: A latent curve model with
+structured residuals. *Journal of Consulting and Clinical Psychology*,
+*82*(5), 879–894. <https://doi.org/10.1037/a0035297>
 
 </div>
 
@@ -606,6 +659,16 @@ points needed for multilevel time-series analysis: A simulation study of
 dynamic structural equation modeling. *Structural Equation Modeling: A
 Multidisciplinary Journal*, *25*(4), 495–515.
 <https://doi.org/10.1080/10705511.2017.1392862>
+
+</div>
+
+<div id="ref-Schuurman-Ferrer-deBoerSonnenschein-etal-2016"
+class="csl-entry">
+
+Schuurman, N. K., Ferrer, E., de Boer-Sonnenschein, M., & Hamaker, E. L.
+(2016). How to compare cross-lagged associations in a multilevel
+autoregressive model. *Psychological Methods*, *21*(2), 206–221.
+<https://doi.org/10.1037/met0000062>
 
 </div>
 
