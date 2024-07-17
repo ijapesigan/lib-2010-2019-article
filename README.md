@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-14
+2024-07-17
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -329,6 +329,16 @@ challenges. *Emotion Review*, *7*(4), 316–322.
 Hamaker, E. L., Kuiper, R. M., & Grasman, R. P. P. P. (2015). A critique
 of the cross-lagged panel model. *Psychological Methods*, *20*(1),
 102–116. <https://doi.org/10.1037/a0038889>
+
+</div>
+
+<div id="ref-Hamaker-Schuurman-Zijlmans-2016" class="csl-entry">
+
+Hamaker, E. L., Schuurman, N. K., & Zijlmans, E. A. O. (2016). Using a
+few snapshots to distinguish mountains from waves: Weak factorial
+invariance in the context of trait-state research. *Multivariate
+Behavioral Research*, *52*(1), 47–60.
+<https://doi.org/10.1080/00273171.2016.1251299>
 
 </div>
 
