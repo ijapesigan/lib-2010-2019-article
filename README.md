@@ -1,10 +1,9 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-18
+2024-07-25
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -64,6 +63,14 @@ predictors and mediators in multilevel and time-series models.
 
 </div>
 
+<div id="ref-Barnett-2014" class="csl-entry">
+
+Barnett, N. P. (2014). Alcohol sensors and their potential for improving
+clinical care. *Addiction*, *110*(1), 1–3.
+<https://doi.org/10.1111/add.12764>
+
+</div>
+
 <div id="ref-Bell-Jones-2014" class="csl-entry">
 
 Bell, A., & Jones, K. (2014). Explaining fixed effects: Random effects
@@ -103,6 +110,16 @@ Docker containers for R. *The R Journal*, *9*(2), 527.
 Bollen, K. A., & Brand, J. E. (2010). A general panel model with random
 and fixed effects: A structural equations approach. *Social Forces*,
 *89*(1), 1–34. <https://doi.org/10.1353/sof.2010.0072>
+
+</div>
+
+<div id="ref-Bond-Greenfield-Patterson-etal-2014" class="csl-entry">
+
+Bond, J. C., Greenfield, T. K., Patterson, D., & Kerr, W. C. (2014).
+Adjustments for drink size and ethanol content: New results from a
+self‐report diary and transdermal sensor validation study. *Alcoholism:
+Clinical and Experimental Research*, *38*(12), 3060–3067.
+<https://doi.org/10.1111/acer.12589>
 
 </div>
 
