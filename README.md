@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-27
+2024-07-29
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -159,6 +159,15 @@ Equivalence and differences between structural equation modeling and
 state-space modeling techniques. *Structural Equation Modeling: A
 Multidisciplinary Journal*, *17*(2), 303–332.
 <https://doi.org/10.1080/10705511003661553>
+
+</div>
+
+<div id="ref-Clapp-Madden-Mooney-etal-2017" class="csl-entry">
+
+Clapp, J. D., Madden, D. R., Mooney, D. D., & Dahlquist, K. E. (2017).
+Examining the social ecology of a bar-crawl: An exploratory pilot study.
+*PLOS ONE*, *12*(9), 1–27.
+<https://doi.org/10.1371/journal.pone.0185238>
 
 </div>
 
@@ -733,6 +742,15 @@ modeling. *Frontiers in Psychology*, *6*.
 Shrout, P. E. (2011). Commentary: Mediation analysis, causal process,
 and cross-sectional data. *Multivariate Behavioral Research*, *46*(5),
 852–860. <https://doi.org/10.1080/00273171.2011.606718>
+
+</div>
+
+<div id="ref-Simons-Wills-Emery-etal-2015" class="csl-entry">
+
+Simons, J. S., Wills, T. A., Emery, N. N., & Marks, R. M. (2015).
+Quantifying alcohol consumption: Self-report, transdermal assessment,
+and prediction of dependence symptoms. *Addictive Behaviors*, *50*,
+205–212. <https://doi.org/10.1016/j.addbeh.2015.06.042>
 
 </div>
 
