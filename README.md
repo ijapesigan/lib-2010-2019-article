@@ -1,10 +1,9 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-29
+2024-08-02
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -138,7 +137,7 @@ modeling of panel data: Model specification and goodness-of-fit testing.
 Bringmann, L. F., Vissers, N., Wichers, M., Geschwind, N., Kuppens, P.,
 Peeters, F., Borsboom, D., & Tuerlinckx, F. (2013). A network approach
 to psychopathology: New insights into clinical longitudinal data. *PLoS
-ONE*, *8*(4), e60188. <https://doi.org/10.1371/journal.pone.0060188>
+ONE*, *8*(4). <https://doi.org/10.1371/journal.pone.0060188>
 
 </div>
 
