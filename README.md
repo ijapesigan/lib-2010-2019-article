@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-02
+2024-08-06
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -149,6 +149,15 @@ Gotlib, I. H., & Cox, R. W. (2011). Vector autoregression, structural
 equation modeling, and their synthesis in neuroimaging data analysis.
 *Computers in Biology and Medicine*, *41*(12), 1142–1155.
 <https://doi.org/10.1016/j.compbiomed.2011.09.004>
+
+</div>
+
+<div id="ref-Cheung-2013" class="csl-entry">
+
+Cheung, M. W.-L. (2013). Multivariate meta-analysis as structural
+equation models. *Structural Equation Modeling: A Multidisciplinary
+Journal*, *20*(3), 429–454.
+<https://doi.org/10.1080/10705511.2013.797827>
 
 </div>
 
