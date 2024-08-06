@@ -640,6 +640,15 @@ dynamic modeling in R. *The R Journal*, *11*(1), 91.
 
 </div>
 
+<div id="ref-Pastor-Lazowski-2017" class="csl-entry">
+
+Pastor, D. A., & Lazowski, R. A. (2017). On the multilevel nature of
+meta-analysis: A tutorial, comparison of software programs, and
+discussion of analytic choices. *Multivariate Behavioral Research*,
+*53*(1), 74–89. <https://doi.org/10.1080/00273171.2017.1365684>
+
+</div>
+
 <div id="ref-Piasecki-2019" class="csl-entry">
 
 Piasecki, T. M. (2019). Assessment of alcohol use in the natural
