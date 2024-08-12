@@ -1,10 +1,9 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-08
+2024-08-12
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -310,6 +309,15 @@ Epskamp, S., Borsboom, D., & Fried, E. I. (2017). Estimating
 psychological networks and their accuracy: A tutorial paper. *Behavior
 Research Methods*, *50*(1), 195–212.
 <https://doi.org/10.3758/s13428-017-0862-1>
+
+</div>
+
+<div id="ref-Epskamp-Cramer-Waldorp-etal-2012" class="csl-entry">
+
+Epskamp, S., Cramer, A. O. J., Waldorp, L. J., Schmittmann, V. D., &
+Borsboom, D. (2012). Qgraph: Network visualizations of relationships in
+psychometric data. *Journal of Statistical Software*, *48*(4).
+<https://doi.org/10.18637/jss.v048.i04>
 
 </div>
 
@@ -778,6 +786,16 @@ Singer, H. (2012). SEM modeling with singular moment matrices part II:
 ML-estimation of sampled stochastic differential equations. *The Journal
 of Mathematical Sociology*, *36*(1), 22–43.
 <https://doi.org/10.1080/0022250x.2010.532259>
+
+</div>
+
+<div id="ref-Sjoerds-deWit-vandenBrink-etal-2013" class="csl-entry">
+
+Sjoerds, Z., de Wit, S., van den Brink, W., Robbins, T., Beekman, A. T.
+F., Penninx, B. W., & Veltman, D. J. (2013). Behavioral and neuroimaging
+evidence for overreliance on habit learning in alcohol-dependent
+patients. *Translational Psychiatry*, *3*(12), e337–e337.
+<https://doi.org/10.1038/tp.2013.107>
 
 </div>
 
