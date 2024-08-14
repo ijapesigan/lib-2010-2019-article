@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-12
+2024-08-14
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -61,6 +61,15 @@ Asparouhov, T., & Muth’en, B. (2018). Latent variable centering of
 predictors and mediators in multilevel and time-series models.
 *Structural Equation Modeling: A Multidisciplinary Journal*, *26*(1),
 119–142. <https://doi.org/10.1080/10705511.2018.1511375>
+
+</div>
+
+<div id="ref-Barker-Taylor-2014" class="csl-entry">
+
+Barker, J. M., & Taylor, J. R. (2014). Habitual alcohol seeking:
+Modeling the transition from casual drinking to addiction. *Neuroscience
+& Biobehavioral Reviews*, *47*, 281–294.
+<https://doi.org/10.1016/j.neubiorev.2014.08.012>
 
 </div>
 
@@ -234,6 +243,15 @@ Demeshko, M., Washio, T., Kawahara, Y., & Pepyolyshev, Y. (2015). A
 novel continuous and structural VAR modeling approach and its
 application to reactor noise analysis. *ACM Transactions on Intelligent
 Systems and Technology*, *7*(2), 1–22. <https://doi.org/10.1145/2710025>
+
+</div>
+
+<div id="ref-Donamayor-Strelchuk-Baek-etal-2017" class="csl-entry">
+
+Doñamayor, N., Strelchuk, D., Baek, K., Banca, P., & Voon, V. (2017).
+The involuntary nature of binge drinking: Goal directedness and
+awareness of intention. *Addiction Biology*, *23*(1), 515–526.
+<https://doi.org/10.1111/adb.12505>
 
 </div>
 
