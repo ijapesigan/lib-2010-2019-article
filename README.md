@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-14
+2024-08-15
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -358,6 +358,15 @@ prevention science* (pp. 537–555). Springer US.
 
 </div>
 
+<div id="ref-Finlay-Ram-Maggs-etal-2012" class="csl-entry">
+
+Finlay, A. K., Ram, N., Maggs, J. L., & Caldwell, L. L. (2012). Leisure
+activities, the social weekend, and alcohol use: Evidence from a daily
+study of first-year college students. *Journal of Studies on Alcohol and
+Drugs*, *73*(2), 250–259. <https://doi.org/10.15288/jsad.2012.73.250>
+
+</div>
+
 <div id="ref-Fritz-Taylor-MacKinnon-2012" class="csl-entry">
 
 Fritz, M. S., Taylor, A. B., & MacKinnon, D. P. (2012). Explanation of
@@ -706,6 +715,16 @@ Measures*, *6*(2), 77–98. <https://doi.org/10.1080/19312458.2012.679848>
 Reichardt, C. S. (2011). Commentary: Are three waves of data sufficient
 for assessing mediation? *Multivariate Behavioral Research*, *46*(5),
 842–851. <https://doi.org/10.1080/00273171.2011.606740>
+
+</div>
+
+<div id="ref-Roache-KarnsWright-Goros-etal-2019" class="csl-entry">
+
+Roache, J. D., Karns-Wright, T. E., Goros, M., Hill-Kapturczak, N.,
+Mathias, C. W., & Dougherty, D. M. (2019). Processing transdermal
+alcohol concentration (TAC) data to detect low-level drinking.
+*Alcohol*, *81*, 101–110.
+<https://doi.org/10.1016/j.alcohol.2018.08.014>
 
 </div>
 
