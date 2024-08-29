@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-19
+2024-08-29
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -177,6 +177,15 @@ Equivalence and differences between structural equation modeling and
 state-space modeling techniques. *Structural Equation Modeling: A
 Multidisciplinary Journal*, *17*(2), 303–332.
 <https://doi.org/10.1080/10705511003661553>
+
+</div>
+
+<div id="ref-Chow-Witkiewitz-Grasman-etal-2015" class="csl-entry">
+
+Chow, S.-M., Witkiewitz, K., Grasman, R., & Maisto, S. A. (2015). The
+cusp catastrophe model as cross-sectional and longitudinal mixture
+structural equation models. *Psychological Methods*, *20*(1), 142–164.
+<https://doi.org/10.1037/a0038962>
 
 </div>
 
