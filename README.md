@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-09-07
+2024-09-27
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -87,6 +87,16 @@ Bell, A., & Jones, K. (2014). Explaining fixed effects: Random effects
 modeling of time-series cross-sectional and panel data. *Political
 Science Research and Methods*, *3*(1), 133–153.
 <https://doi.org/10.1017/psrm.2014.7>
+
+</div>
+
+<div id="ref-Bernardo-Wang-Pesigan-etal-2017" class="csl-entry">
+
+Bernardo, A. B. I., Wang, T. Y., Pesigan, I. J. A., & Yeung, S. S.
+(2017). Pathways from collectivist coping to life satisfaction among
+chinese: The roles of locus-of-hope. *Personality and Individual
+Differences*, *106*, 253–256.
+<https://doi.org/10.1016/j.paid.2016.10.059>
 
 </div>
 
@@ -195,6 +205,16 @@ Clapp, J. D., Madden, D. R., Mooney, D. D., & Dahlquist, K. E. (2017).
 Examining the social ecology of a bar-crawl: An exploratory pilot study.
 *PLOS ONE*, *12*(9), 1–27.
 <https://doi.org/10.1371/journal.pone.0185238>
+
+</div>
+
+<div id="ref-Crocetti-Hale-Dimitrova-etal-2014" class="csl-entry">
+
+Crocetti, E., Hale, W. W., Dimitrova, R., Abubakar, A., Gao, C.-H., &
+Pesigan, I. J. A. (2014). Generalized anxiety symptoms and identity
+processes in cross-cultural samples of adolescents from the general
+population. *Child & Youth Care Forum*, *44*(2), 159–174.
+<https://doi.org/10.1007/s10566-014-9275-9>
 
 </div>
 
@@ -450,6 +470,16 @@ Behavioral Development*, *45*(1), 19–27.
 
 </div>
 
+<div id="ref-Herring-Zamboanga-Olthuis-etal-2016" class="csl-entry">
+
+Herring, T. E., Zamboanga, B. L., Olthuis, J. V., Pesigan, I. J. A.,
+Martin, J. L., McAfee, N. W., & Martens, M. P. (2016). Utility of the
+Athlete Drinking Scale for assessing drinking motives among high school
+athletes. *Addictive Behaviors*, *60*, 18–23.
+<https://doi.org/10.1016/j.addbeh.2016.03.026>
+
+</div>
+
 <div id="ref-Hesterberg-2015" class="csl-entry">
 
 Hesterberg, T. C. (2015). What teachers should know about the bootstrap:
@@ -691,6 +721,16 @@ Pastor, D. A., & Lazowski, R. A. (2017). On the multilevel nature of
 meta-analysis: A tutorial, comparison of software programs, and
 discussion of analytic choices. *Multivariate Behavioral Research*,
 *53*(1), 74–89. <https://doi.org/10.1080/00273171.2017.1365684>
+
+</div>
+
+<div id="ref-Pesigan-Luyckx-Alampay-2014" class="csl-entry">
+
+Pesigan, I. J. A., Luyckx, K., & Alampay, L. P. (2014). Brief report:
+Identity processes in Filipino late adolescents and young adults:
+Parental influences and mental health outcomes. *Journal of
+Adolescence*, *37*(5), 599–604.
+<https://doi.org/10.1016/j.adolescence.2014.04.012>
 
 </div>
 
@@ -962,6 +1002,24 @@ data through nonparametric bootstrapping and multiple imputation.
 
 </div>
 
+<div id="ref-Yu-Pesigan-Zhang-etal-2019" class="csl-entry">
+
+Yu, S. M., Pesigan, I. J. A., Zhang, M. X., & Wu, A. M. S. (2019).
+Psychometric validation of the Internet Gaming Disorder-20 Test among
+Chinese middle school and university students. *Journal of Behavioral
+Addictions*, *8*(2), 295–305. <https://doi.org/10.1556/2006.8.2019.18>
+
+</div>
+
+<div id="ref-Yu-Wu-Pesigan-2015" class="csl-entry">
+
+Yu, S., Wu, A. M. S., & Pesigan, I. J. A. (2015). Cognitive and
+psychosocial health risk factors of social networking addiction.
+*International Journal of Mental Health and Addiction*, *14*(4),
+550–564. <https://doi.org/10.1007/s11469-015-9612-8>
+
+</div>
+
 <div id="ref-Yuan-Chan-2011" class="csl-entry">
 
 Yuan, K.-H., & Chan, W. (2011). Biases and standard errors of
@@ -977,6 +1035,47 @@ recommendations for testing indirect effects in mediational models: The
 need to report and test component paths. *Journal of Personality and
 Social Psychology*, *115*(6), 929–943.
 <https://doi.org/10.1037/pspa0000132>
+
+</div>
+
+<div id="ref-Zamboanga-Iwamoto-Pesigan-etal-2015" class="csl-entry">
+
+Zamboanga, B. L., Iwamoto, D. K., Pesigan, I. J. A., & Tomaso, C. C.
+(2015). A “player’s” game? Masculinity and drinking games participation
+among White and Asian American male college freshmen. *Psychology of Men
+& Masculinity*, *16*(4), 468–473. <https://doi.org/10.1037/a0039101>
+
+</div>
+
+<div id="ref-Zamboanga-Pesigan-Tomaso-etal-2015" class="csl-entry">
+
+Zamboanga, B. L., Pesigan, I. J. A., Tomaso, C. C., Schwartz, S. J.,
+Ham, L. S., Bersamin, M., Kim, S. Y., Cano, M. A., Castillo, L. G.,
+Forthun, L. F., Whitbourne, S. K., & Hurley, E. A. (2015). Frequency of
+drinking games participation and alcohol-related problems in a
+multiethnic sample of college students: Do gender and ethnicity matter?
+*Addictive Behaviors*, *41*, 112–116.
+<https://doi.org/10.1016/j.addbeh.2014.10.002>
+
+</div>
+
+<div id="ref-Zhang-Ku-Wu-et-al-2019" class="csl-entry">
+
+Zhang, M. X., Ku, L., Wu, A. M. S., Yu, S. M., & Pesigan, I. J. A.
+(2019). Effects of social and outcome expectancies on hazardous drinking
+among Chinese university students: The mediating role of drinking
+motivations. *Substance Use & Misuse*, *55*(1), 156–166.
+<https://doi.org/10.1080/10826084.2019.1658784>
+
+</div>
+
+<div id="ref-Zhang-Pesigan-Kahler-etal-2019" class="csl-entry">
+
+Zhang, M. X., Pesigan, I. J. A., Kahler, C. W., Yip, M. C. W., Yu, S., &
+Wu, A. M. S. (2019). Psychometric properties of a chinese version of the
+brief young adult alcohol consequences questionnaire (b-YAACQ).
+*Addictive Behaviors*, *90*, 389–394.
+<https://doi.org/10.1016/j.addbeh.2018.11.045>
 
 </div>
 
