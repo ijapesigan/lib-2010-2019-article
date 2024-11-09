@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-10-02
+2024-11-09
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -416,6 +416,16 @@ formal equivalences among SEM path modeling, VAR, and unified SEM.
 
 </div>
 
+<div id="ref-Greenfield-Ye-Bond-etal-2014" class="csl-entry">
+
+Greenfield, T. K., Ye, Y., Bond, J., Kerr, W. C., Nayak, M. B.,
+Kaskutas, L. A., Anton, R. F., Litten, R. Z., & Kranzler, H. R. (2014).
+Risks of alcohol use disorders related to drinking patterns in the U.S.
+General population. *Journal of Studies on Alcohol and Drugs*, *75*(2),
+319–327. <https://doi.org/10.15288/jsad.2014.75.319>
+
+</div>
+
 <div id="ref-Gu-Preacher-Ferrer-2014" class="csl-entry">
 
 Gu, F., Preacher, K. J., & Ferrer, E. (2014). A state space modeling
@@ -666,6 +676,15 @@ Kirkpatrick, R. M., Estabrook, R., Bates, T. C., Maes, H. H., & Boker,
 S. M. (2015). OpenMx 2.0: Extended structural equation and statistical
 modeling. *Psychometrika*, *81*(2), 535–549.
 <https://doi.org/10.1007/s11336-014-9435-8>
+
+</div>
+
+<div id="ref-Northcote-Livingston-2011" class="csl-entry">
+
+Northcote, J., & Livingston, M. (2011). Accuracy of self-reported
+drinking: Observational verification of “last occasion” drink estimates
+of young adults. *Alcohol and Alcoholism*, *46*(6), 709–713.
+<https://doi.org/10.1093/alcalc/agr138>
 
 </div>
 
