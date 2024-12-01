@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-11-09
+2024-12-01
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -1032,7 +1032,7 @@ Addictions*, *8*(2), 295–305. <https://doi.org/10.1556/2006.8.2019.18>
 
 <div id="ref-Yu-Wu-Pesigan-2015" class="csl-entry">
 
-Yu, S., Wu, A. M. S., & Pesigan, I. J. A. (2015). Cognitive and
+Yu, S. M., Wu, A. M. S., & Pesigan, I. J. A. (2015). Cognitive and
 psychosocial health risk factors of social networking addiction.
 *International Journal of Mental Health and Addiction*, *14*(4),
 550–564. <https://doi.org/10.1007/s11469-015-9612-8>
