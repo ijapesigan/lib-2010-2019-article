@@ -1078,6 +1078,14 @@ multiethnic sample of college students: Do gender and ethnicity matter?
 
 </div>
 
+<div id="ref-Zhang-2018" class="csl-entry">
+
+Zhang, G. (2018). Testing process factor analysis models using the
+parametric bootstrap. *Multivariate Behavioral Research*, *53*(2),
+219–230. <https://doi.org/10.1080/00273171.2017.1415123>
+
+</div>
+
 <div id="ref-Zhang-Ku-Wu-et-al-2019" class="csl-entry">
 
 Zhang, M. X., Ku, L., Wu, A. M. S., Yu, S. M., & Pesigan, I. J. A.
