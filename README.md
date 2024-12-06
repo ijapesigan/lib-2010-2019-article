@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-12-01
+2024-12-06
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -1091,8 +1091,8 @@ motivations. *Substance Use & Misuse*, *55*(1), 156–166.
 <div id="ref-Zhang-Pesigan-Kahler-etal-2019" class="csl-entry">
 
 Zhang, M. X., Pesigan, I. J. A., Kahler, C. W., Yip, M. C. W., Yu, S., &
-Wu, A. M. S. (2019). Psychometric properties of a chinese version of the
-brief young adult alcohol consequences questionnaire (b-YAACQ).
+Wu, A. M. S. (2019). Psychometric properties of a Chinese version of the
+Brief Young Adult Alcohol Consequences Questionnaire (B-YAACQ).
 *Addictive Behaviors*, *90*, 389–394.
 <https://doi.org/10.1016/j.addbeh.2018.11.045>
 
