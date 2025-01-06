@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-12-16
+2025-01-06
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -1098,6 +1098,14 @@ multiethnic sample of college students: Do gender and ethnicity matter?
 Zhang, G. (2018). Testing process factor analysis models using the
 parametric bootstrap. *Multivariate Behavioral Research*, *53*(2),
 219–230. <https://doi.org/10.1080/00273171.2017.1415123>
+
+</div>
+
+<div id="ref-Zhang-Browne-2010" class="csl-entry">
+
+Zhang, G., & Browne, M. W. (2010). Bootstrap standard error estimates in
+dynamic factor analysis. *Multivariate Behavioral Research*, *45*(3),
+453–482. <https://doi.org/10.1080/00273171.2010.483375>
 
 </div>
 
