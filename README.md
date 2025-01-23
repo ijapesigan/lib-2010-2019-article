@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-01-06
+2025-01-23
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -553,6 +553,14 @@ Methods*, *17*(2), 137–152. <https://doi.org/10.1037/a0028086>
 
 </div>
 
+<div id="ref-Kenny-Judd-2013" class="csl-entry">
+
+Kenny, D. A., & Judd, C. M. (2013). Power anomalies in testing
+mediation. *Psychological Science*, *25*(2), 334–339.
+<https://doi.org/10.1177/0956797613502676>
+
+</div>
+
 <div id="ref-KisbuSakarya-MacKinnon-Miocevic-2014" class="csl-entry">
 
 Kisbu-Sakarya, Y., MacKinnon, D. P., & Miočevi’c, M. (2014). The
@@ -1015,6 +1023,14 @@ Vuorre, M., & Bolger, N. (2017). Within-subject mediation analysis for
 experimental data in cognitive psychology and neuroscience. *Behavior
 Research Methods*, *50*(5), 2125–2143.
 <https://doi.org/10.3758/s13428-017-0980-9>
+
+</div>
+
+<div id="ref-Wang-2018" class="csl-entry">
+
+Wang, K. (2018). Understanding power anomalies in mediation analysis.
+*Psychometrika*, *83*(2), 387–406.
+<https://doi.org/10.1007/s11336-017-9598-1>
 
 </div>
 
