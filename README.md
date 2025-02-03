@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-01-23
+2025-02-03
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -798,6 +798,15 @@ models: Quantitative strategies for communicating indirect effects.
 Preacher, K. J., & Selig, J. P. (2012). Advantages of Monte Carlo
 confidence intervals for indirect effects. *Communication Methods and
 Measures*, *6*(2), 77–98. <https://doi.org/10.1080/19312458.2012.679848>
+
+</div>
+
+<div id="ref-Prince-Read-Colder-2019" class="csl-entry">
+
+Prince, M. A., Read, J. P., & Colder, C. R. (2019). Trajectories of
+college alcohol involvement and their associations with later alcohol
+use disorder symptoms. *Prevention Science*, *20*(5), 741–752.
+<https://doi.org/10.1007/s11121-018-0974-6>
 
 </div>
 
