@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-02-03
+2025-04-17
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -158,6 +158,15 @@ Bringmann, L. F., Vissers, N., Wichers, M., Geschwind, N., Kuppens, P.,
 Peeters, F., Borsboom, D., & Tuerlinckx, F. (2013). A network approach
 to psychopathology: New insights into clinical longitudinal data. *PLoS
 ONE*, *8*(4). <https://doi.org/10.1371/journal.pone.0060188>
+
+</div>
+
+<div id="ref-CastroSchilo-Ferrer-2013" class="csl-entry">
+
+Castro-Schilo, L., & Ferrer, E. (2013). Comparison of nomothetic versus
+idiographic-oriented methods for making predictions about distal
+outcomes from time series data. *Multivariate Behavioral Research*,
+*48*(2), 175–207. <https://doi.org/10.1080/00273171.2012.736042>
 
 </div>
 
