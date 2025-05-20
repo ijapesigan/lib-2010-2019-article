@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-05-11
+2025-05-20
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -772,6 +772,15 @@ Pastor, D. A., & Lazowski, R. A. (2017). On the multilevel nature of
 meta-analysis: A tutorial, comparison of software programs, and
 discussion of analytic choices. *Multivariate Behavioral Research*,
 *53*(1), 74–89. <https://doi.org/10.1080/00273171.2017.1365684>
+
+</div>
+
+<div id="ref-Patrick-TerryMcElrath-2016" class="csl-entry">
+
+Patrick, M. E., & Terry-McElrath, Y. M. (2016). High-intensity drinking
+by underage young adults in the united states: Underage high-intensity
+drinking. *Addiction*, *112*(1), 82–93.
+<https://doi.org/10.1111/add.13556>
 
 </div>
 
