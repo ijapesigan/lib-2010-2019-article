@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-08-29
+2025-09-15
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -259,10 +259,10 @@ structured residuals. *Journal of Consulting and Clinical Psychology*,
 <div id="ref-HaanRietdijk-Voelkle-Keijsers-Hamaker-2017"
 class="csl-entry">
 
-de Haan-Rietdijk, S., Voelkle, M. C., Keijsers, L., & Hamaker, E. L.
-(2017). Discrete- vs. Continuous-time modeling of unequally spaced
-experience sampling method data. *Frontiers in Psychology*, *8*.
-<https://doi.org/10.3389/fpsyg.2017.01849>
+<span class="nocase">de Haan-Rietdijk, S., Voelkle, M. C., Keijsers, L.,
+& Hamaker, E. L.</span> (2017). Discrete- vs. Continuous-time modeling
+of unequally spaced experience sampling method data. *Frontiers in
+Psychology*, *8*. <https://doi.org/10.3389/fpsyg.2017.01849>
 
 </div>
 
@@ -390,9 +390,10 @@ psychometric data. *Journal of Statistical Software*, *48*(4).
 
 <div id="ref-Epskamp-Lourens-Mottus-etal-2018" class="csl-entry">
 
-Epskamp, S., Waldorp, L. J., ottus, R. M., & Borsboom, D. (2018). The
-Gaussian graphical model in cross-sectional and time-series data.
-*Multivariate Behavioral Research*, *53*(4), 453–480.
+<span class="nocase">Epskamp, S., Waldorp, L. J., ottus, R. M., &
+Borsboom, D.</span> (2018). The Gaussian graphical model in
+cross-sectional and time-series data. *Multivariate Behavioral
+Research*, *53*(4), 453–480.
 <https://doi.org/10.1080/00273171.2018.1454823>
 
 </div>
@@ -905,10 +906,10 @@ Multidisciplinary Journal*, *25*(4), 495–515.
 <div id="ref-Schuurman-Ferrer-deBoerSonnenschein-etal-2016"
 class="csl-entry">
 
-Schuurman, N. K., Ferrer, E., de Boer-Sonnenschein, M., & Hamaker, E. L.
-(2016). How to compare cross-lagged associations in a multilevel
-autoregressive model. *Psychological Methods*, *21*(2), 206–221.
-<https://doi.org/10.1037/met0000062>
+<span class="nocase">Schuurman, N. K., Ferrer, E., de Boer-Sonnenschein,
+M., & Hamaker, E. L.</span> (2016). How to compare cross-lagged
+associations in a multilevel autoregressive model. *Psychological
+Methods*, *21*(2), 206–221. <https://doi.org/10.1037/met0000062>
 
 </div>
 
@@ -958,11 +959,11 @@ of Mathematical Sociology*, *36*(1), 22–43.
 
 <div id="ref-Sjoerds-deWit-vandenBrink-etal-2013" class="csl-entry">
 
-Sjoerds, Z., de Wit, S., van den Brink, W., Robbins, T., Beekman, A. T.
-F., Penninx, B. W., & Veltman, D. J. (2013). Behavioral and neuroimaging
-evidence for overreliance on habit learning in alcohol-dependent
-patients. *Translational Psychiatry*, *3*(12), e337–e337.
-<https://doi.org/10.1038/tp.2013.107>
+<span class="nocase">Sjoerds, Z., de Wit, S., van den Brink, W.,
+Robbins, T., Beekman, A. T. F., Penninx, B. W., & Veltman, D. J.</span>
+(2013). Behavioral and neuroimaging evidence for overreliance on habit
+learning in alcohol-dependent patients. *Translational Psychiatry*,
+*3*(12), e337–e337. <https://doi.org/10.1038/tp.2013.107>
 
 </div>
 
@@ -1030,9 +1031,9 @@ Methods*, *24*(5), 637–657. <https://doi.org/10.1037/met0000210>
 
 <div id="ref-vanBuuren-GroothuisOudshoorn-2011" class="csl-entry">
 
-van Buuren, S., & Groothuis-Oudshoorn, K. (2011).
-<span class="nocase">mice</span>: Multivariate imputation by chained
-equations in R. *Journal of Statistical Software*, *45*(3).
+<span class="nocase">van Buuren, S., & Groothuis-Oudshoorn, K.</span>
+(2011). <span class="nocase">mice</span>: Multivariate imputation by
+chained equations in R. *Journal of Statistical Software*, *45*(3).
 <https://doi.org/10.18637/jss.v045.i03>
 
 </div>
@@ -1171,10 +1172,10 @@ dynamic factor analysis. *Multivariate Behavioral Research*, *45*(3),
 
 </div>
 
-<div id="ref-Zhang-Ku-Wu-et-al-2019" class="csl-entry">
+<div id="ref-Zhang-Ku-Wu-et-al-2020" class="csl-entry">
 
 Zhang, M. X., Ku, L., Wu, A. M. S., Yu, S. M., & Pesigan, I. J. A.
-(2019). Effects of social and outcome expectancies on hazardous drinking
+(2020). Effects of social and outcome expectancies on hazardous drinking
 among Chinese university students: The mediating role of drinking
 motivations. *Substance Use & Misuse*, *55*(1), 156–166.
 <https://doi.org/10.1080/10826084.2019.1658784>
