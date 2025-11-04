@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-10-06
+2025-11-04
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -539,6 +539,15 @@ A Multidisciplinary Journal*, *25*(2), 307–324.
 
 </div>
 
+<div id="ref-Hussong-Jones-Stein-etal-2011" class="csl-entry">
+
+Hussong, A. M., Jones, D. J., Stein, G. L., Baucom, D. H., & Boeding, S.
+(2011). An internalizing pathway to alcohol use and disorder.
+*Psychology of Addictive Behaviors*, *25*(3), 390–404.
+<https://doi.org/10.1037/a0024519>
+
+</div>
+
 <div id="ref-Jensen-Turk-2014" class="csl-entry">
 
 Jensen, M. P., & Turk, D. C. (2014). Contributions of psychology to the
@@ -875,6 +884,16 @@ structural equation modeling. *Journal of Statistical Software*,
 
 </div>
 
+<div id="ref-Russell-Wang-Odgers-2015" class="csl-entry">
+
+Russell, M. A., Wang, L., & Odgers, C. L. (2015). Witnessing substance
+use increases same-day antisocial behavior among at-risk adolescents:
+Gene-environment interaction in a 30-day ecological momentary assessment
+study. *Development and Psychopathology*, *28*(4pt2), 1441–1456.
+<https://doi.org/10.1017/s0954579415001182>
+
+</div>
+
 <div id="ref-Sacks-Gonzales-Bouchery-etal-2015" class="csl-entry">
 
 Sacks, J. J., Gonzales, K. R., Bouchery, E. E., Tomedi, L. E., & Brewer,
@@ -945,6 +964,16 @@ modeling. *Frontiers in Psychology*, *6*.
 Shrout, P. E. (2011). Commentary: Mediation analysis, causal process,
 and cross-sectional data. *Multivariate Behavioral Research*, *46*(5),
 852–860. <https://doi.org/10.1080/00273171.2011.606718>
+
+</div>
+
+<div id="ref-Simons-Dvorak-Batien-etal-2010" class="csl-entry">
+
+Simons, J. S., Dvorak, R. D., Batien, B. D., & Wray, T. B. (2010).
+Event-level associations between affect, alcohol intoxication, and acute
+depenence symptoms: Effects of urgency, self-control, and drinking
+experience. *Addictive Behaviors*, *35*(12), 1045–1053.
+<https://doi.org/10.1016/j.addbeh.2010.07.001>
 
 </div>
 
