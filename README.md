@@ -605,7 +605,7 @@ Statistician*, *69*(4), 371–386.
 Hingson, R., Zha, W., & Smyth, D. (2017). Magnitude and trends in heavy
 episodic drinking, alcohol-impaired driving, and alcohol-related
 mortality and overdose hospitalizations among emerging adults of college
-ages 18–24 in the United States, 1998–2014. *Journal of Studies on
+ages 18-24 in the United States, 1998-2014. *Journal of Studies on
 Alcohol and Drugs*, *78*(4), 540–548.
 <https://doi.org/10.15288/jsad.2017.78.540>
 
@@ -643,6 +643,15 @@ Hussong, A. M., Jones, D. J., Stein, G. L., Baucom, D. H., & Boeding, S.
 (2011). An internalizing pathway to alcohol use and disorder.
 *Psychology of Addictive Behaviors*, *25*(3), 390–404.
 <https://doi.org/10.1037/a0024519>
+
+</div>
+
+<div id="ref-Jackson-White-Riley-2012" class="csl-entry">
+
+Jackson, D., White, I. R., & Riley, R. D. (2012). Quantifying the impact
+of between-study heterogeneity in multivariate meta-analyses.
+*Statistics in Medicine*, *31*(29), 3805–3820.
+<https://doi.org/10.1002/sim.5453>
 
 </div>
 
@@ -795,7 +804,7 @@ of effect size for mediation analysis. *Psychological Methods*, *23*(2),
 
 Leffingwell, T. R., Cooney, N. J., Murphy, J. G., Luczak, S., Rosen, G.,
 Dougherty, D. M., & Barnett, N. P. (2012). Continuous objective
-monitoring of alcohol use: Twenty‐first century measurement using
+monitoring of alcohol use: Twenty-first century measurement using
 transdermal sensors. *Alcoholism: Clinical and Experimental Research*,
 *37*(1), 16–22. <https://doi.org/10.1111/j.1530-0277.2012.01869.x>
 
@@ -896,7 +905,7 @@ on Alcohol and Drugs*, *79*(2), 171–181.
 <div id="ref-Odgers-Russell-2017" class="csl-entry">
 
 Odgers, C. L., & Russell, M. A. (2017). Violence exposure is associated
-with adolescents’ same‐ and next‐day mental health symptoms. *Journal of
+with adolescents’ same- and next-day mental health symptoms. *Journal of
 Child Psychology and Psychiatry*, *58*(12), 1310–1318.
 <https://doi.org/10.1111/jcpp.12763>
 
@@ -1021,7 +1030,7 @@ structural equation modeling. *Journal of Statistical Software*,
 <div id="ref-Russell-Odgers-2019" class="csl-entry">
 
 Russell, M. A., & Odgers, C. L. (2019). Adolescents’ subjective social
-status predicts day‐to‐day mental health and future substance use.
+status predicts day-to-day mental health and future substance use.
 *Journal of Research on Adolescence*, *30*(S2), 532–544.
 <https://doi.org/10.1111/jora.12496>
 
