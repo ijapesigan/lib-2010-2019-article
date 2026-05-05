@@ -406,6 +406,16 @@ Modeling: A Multidisciplinary Journal*, *23*(1), 61–75.
 
 </div>
 
+<div id="ref-Dejonckheere-Mestdagh-Houben-etal-2019" class="csl-entry">
+
+Dejonckheere, E., Mestdagh, M., Houben, M., Rutten, I., Sels, L.,
+Kuppens, P., & Tuerlinckx, F. (2019). Complex affect dynamics add
+limited information to the prediction of psychological well-being.
+*Nature Human Behaviour*, *3*(5), 478–491.
+<https://doi.org/10.1038/s41562-019-0555-0>
+
+</div>
+
 <div id="ref-Demeshko-Washio-Kawahara-etal-2015" class="csl-entry">
 
 Demeshko, M., Washio, T., Kawahara, Y., & Pepyolyshev, Y. (2015). A
@@ -895,6 +905,15 @@ distribution-free (ADF) covariance matrix of standardized regression
 coefficients: Theoretical extensions and finite sample behavior.
 *Psychometrika*, *80*(2), 365–378.
 <https://doi.org/10.1007/s11336-013-9380-y>
+
+</div>
+
+<div id="ref-Jongerling-Laurenceau-Hamaker-2015" class="csl-entry">
+
+Jongerling, J., Laurenceau, J.-P., & Hamaker, E. L. (2015). A multilevel
+AR(1) model: Allowing for inter-individual differences in trait-scores,
+inertia, and innovation variance. *Multivariate Behavioral Research*,
+*50*(3), 334–349. <https://doi.org/10.1080/00273171.2014.1003772>
 
 </div>
 
@@ -1485,6 +1504,14 @@ assessment (EMA) to ecological momentary intervention (EMI): Past and
 future directions for ambulatory assessment and interventions in eating
 disorders. *Current Psychiatry Reports*, *21*(7).
 <https://doi.org/10.1007/s11920-019-1046-8>
+
+</div>
+
+<div id="ref-Snijders-Bosker-2012" class="csl-entry">
+
+Snijders, T. A. B., & Bosker, R. J. (2012). *Multilevel analysis: An
+introduction to basic and advanced multilevel modeling* (2nd ed.). SAGE
+Publications.
 
 </div>
 
