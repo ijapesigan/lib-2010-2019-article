@@ -1758,9 +1758,9 @@ Statistician*, *66*(2), 124–127.
 
 </div>
 
-<div id="ref-Voelkle-Oud-2012" class="csl-entry">
+<div id="ref-Voelkle-Oud-2013" class="csl-entry">
 
-Voelkle, M. C., & Oud, J. H. L. (2012). Continuous time modelling with
+Voelkle, M. C., & Oud, J. H. L. (2013). Continuous time modelling with
 individually varying time intervals for oscillating and non-oscillating
 processes. *British Journal of Mathematical and Statistical Psychology*,
 *66*(1), 103–126. <https://doi.org/10.1111/j.2044-8317.2012.02043.x>
