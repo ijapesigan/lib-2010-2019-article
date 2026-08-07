@@ -1829,9 +1829,9 @@ depression. *Psychotherapy and Psychosomatics*, *85*(2), 114–116.
 
 </div>
 
-<div id="ref-Wrzus-Roberts-2016" class="csl-entry">
+<div id="ref-Wrzus-Roberts-2017" class="csl-entry">
 
-Wrzus, C., & Roberts, B. W. (2016). Processes of personality development
+Wrzus, C., & Roberts, B. W. (2017). Processes of personality development
 in adulthood: The TESSERA framework. *Personality and Social Psychology
 Review*, *21*(3), 253–277. <https://doi.org/10.1177/1088868316652279>
 
