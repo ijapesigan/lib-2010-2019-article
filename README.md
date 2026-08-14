@@ -42,7 +42,7 @@ Royal Statistical Society. Series A (Statistics in Society)*, *175*(4),
 <div id="ref-Albert-Li-Sun-etal-2019" class="csl-entry">
 
 Albert, J. M., Li, Y., Sun, J., Woyczynski, W. A., & Nelson, S. (2019).
-Continuous‐time causal mediation analysis. *Statistics in Medicine*,
+Continuous-time causal mediation analysis. *Statistics in Medicine*,
 *38*(22), 4334–4347. <https://doi.org/10.1002/sim.8300>
 
 </div>
