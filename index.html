@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Ivan Jacob Agaloos Pesigan">
-<meta name="dcterms.date" content="2026-10-14">
+<meta name="dcterms.date" content="2026-10-21">
 
 <title>lib-2010-2019-article</title>
 <style>
@@ -64,7 +64,7 @@ div.csl-indent {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-07314a9cf6582ab18f4f031a2d4fd43d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a206d21545c63f9cce3c5482e250c974.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1756d1dfdd0eea61134ebbb5bb304a3e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -93,6 +93,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -187,7 +216,7 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">October 14, 2026</p>
+      <p class="date">October 21, 2026</p>
     </div>
   </div>
   
@@ -300,10 +329,22 @@ Boker, S. M. (2015). Adaptive equilibria: A balancing act of regulation
 in development. <em>Journal for Person-Oriented Research</em>,
 <em>1</em>(1-2), 99–109. <a href="https://doi.org/10.17505/jpor.2015.10">https://doi.org/10.17505/jpor.2015.10</a>
 </div>
+<div id="ref-Bollen-2019" class="csl-entry" role="listitem">
+Bollen, K. A. (2019). Model implied instrumental variables
+(<span>MIIVs</span>): An alternative orientation to structural equation
+modeling. <em>Multivariate Behavioral Research</em>, <em>54</em>(1),
+31–46. <a href="https://doi.org/10.1080/00273171.2018.1483224">https://doi.org/10.1080/00273171.2018.1483224</a>
+</div>
 <div id="ref-Bollen-Brand-2010" class="csl-entry" role="listitem">
 Bollen, K. A., &amp; Brand, J. E. (2010). A general panel model with
 random and fixed effects: A structural equations approach. <em>Social
 Forces</em>, <em>89</em>(1), 1–34. <a href="https://doi.org/10.1353/sof.2010.0072">https://doi.org/10.1353/sof.2010.0072</a>
+</div>
+<div id="ref-Bollen-Gates-Fisher-2018" class="csl-entry" role="listitem">
+Bollen, K. A., Gates, K. M., &amp; Fisher, Z. (2018). Robustness
+conditions for <span>MIIV-2SLS</span> when the latent variable or
+measurement model is structurally misspecified. <em>Structural Equation
+Modeling: A Multidisciplinary Journal</em>, <em>25</em>(6), 848–859. <a href="https://doi.org/10.1080/10705511.2018.1456341">https://doi.org/10.1080/10705511.2018.1456341</a>
 </div>
 <div id="ref-Bond-Greenfield-Patterson-etal-2014" class="csl-entry" role="listitem">
 Bond, J. C., Greenfield, T. K., Patterson, D., &amp; Kerr, W. C. (2014).
@@ -311,6 +352,12 @@ Adjustments for drink size and ethanol content: New results from a
 self-report diary and transdermal sensor validation study.
 <em>Alcoholism: Clinical and Experimental Research</em>,
 <em>38</em>(12), 3060–3067. <a href="https://doi.org/10.1111/acer.12589">https://doi.org/10.1111/acer.12589</a>
+</div>
+<div id="ref-Borenstein-Higgins-Hedges-etal-2017" class="csl-entry" role="listitem">
+Borenstein, M., Higgins, J. P. T., Hedges, L. V., &amp; Rothstein, H. R.
+(2017). Basics of meta-analysis: <span><span class="math inline"><em>I</em><sup>2</sup></span></span> is not an
+absolute measure of heterogeneity. <em>Research Synthesis Methods</em>,
+<em>8</em>(1), 5–18. <a href="https://doi.org/10.1002/jrsm.1230">https://doi.org/10.1002/jrsm.1230</a>
 </div>
 <div id="ref-Bosley-Soyster-Fisher-2019" class="csl-entry" role="listitem">
 Bosley, H. G., Soyster, P. D., &amp; Fisher, A. J. (2019). Affect
@@ -329,7 +376,7 @@ Wichers, M., Wigman, J. T. W., &amp; Snippe, E. (2019). What do
 centrality measures measure in psychological networks? <em>Journal of
 Abnormal Psychology</em>, <em>128</em>(8), 892–903. <a href="https://doi.org/10.1037/abn0000446">https://doi.org/10.1037/abn0000446</a>
 </div>
-<div id="ref-Bringmann-Ferrer-Hamaker-et-al-2018" class="csl-entry" role="listitem">
+<div id="ref-Bringmann-Ferrer-Hamaker-etal-2018" class="csl-entry" role="listitem">
 Bringmann, L. F., Ferrer, E., Hamaker, E. L., Borsboom, D., &amp;
 Tuerlinckx, F. (2018). Modeling nonstationary emotion dynamics in dyads
 using a time-varying vector-autoregressive model. <em>Multivariate
@@ -351,7 +398,7 @@ temporal emotion dynamics using networks. <em>Assessment</em>,
 Bringmann, L. F., Vissers, N., Wichers, M., Geschwind, N., Kuppens, P.,
 Peeters, F., Borsboom, D., &amp; Tuerlinckx, F. (2013). A network
 approach to psychopathology: New insights into clinical longitudinal
-data. <em>PLoS ONE</em>, <em>8</em>(4). <a href="https://doi.org/10.1371/journal.pone.0060188">https://doi.org/10.1371/journal.pone.0060188</a>
+data. <em>PLOS ONE</em>, <em>8</em>(4). <a href="https://doi.org/10.1371/journal.pone.0060188">https://doi.org/10.1371/journal.pone.0060188</a>
 </div>
 <div id="ref-Brody-Yu-Chen-etal-2013" class="csl-entry" role="listitem">
 Brody, G. H., Yu, T., Chen, E., Miller, G. E., Kogan, S. M., &amp;
@@ -531,7 +578,7 @@ standardized regression coefficients. <em>Psychometrika</em>,
 <div id="ref-Eddelbuettel-Balamuta-2017" class="csl-entry" role="listitem">
 Eddelbuettel, D., &amp; Balamuta, J. J. (2017). Extending <span>R</span>
 with <span>C++</span>: A brief introduction to <span>Rcpp</span>.
-<em>PeerJ Preprints</em>, <em>3188v1</em>(3). <a href="https://doi.org/10.7287/peerj.preprints.3188v1">https://doi.org/10.7287/peerj.preprints.3188v1</a>
+<em>PeerJ Preprints</em>, <em>5</em>(e3188v1). <a href="https://doi.org/10.7287/peerj.preprints.3188v1">https://doi.org/10.7287/peerj.preprints.3188v1</a>
 </div>
 <div id="ref-Eddelbuettel-Francois-2011" class="csl-entry" role="listitem">
 Eddelbuettel, D., &amp; François, R. (2011). <span>Rcpp</span>: Seamless
@@ -787,6 +834,11 @@ Imai, K., Keele, L., &amp; Tingley, D. (2010). A general approach to
 causal mediation analysis. <em>Psychological Methods</em>,
 <em>15</em>(4), 309–334. <a href="https://doi.org/10.1037/a0020761">https://doi.org/10.1037/a0020761</a>
 </div>
+<div id="ref-IntHout-Ioannidis-Rovers-etal-2016" class="csl-entry" role="listitem">
+IntHout, J., Ioannidis, J. P. A., Rovers, M. M., &amp; Goeman, J. J.
+(2016). Plea for routinely presenting prediction intervals in
+meta-analysis. <em>BMJ Open</em>, <em>6</em>(7), e010247. <a href="https://doi.org/10.1136/bmjopen-2015-010247">https://doi.org/10.1136/bmjopen-2015-010247</a>
+</div>
 <div id="ref-Jackson-Riley-White-2011" class="csl-entry" role="listitem">
 Jackson, D., Riley, R. D., &amp; White, I. R. (2011). Multivariate
 meta-analysis: Potential and promise. <em>Statistics in Medicine</em>,
@@ -864,7 +916,7 @@ sample mediation testing: Misplaced confidence in bootstrapped
 confidence intervals. <em>Journal of Applied Psychology</em>,
 <em>100</em>(1), 194–202. <a href="https://doi.org/10.1037/a0036635">https://doi.org/10.1037/a0036635</a>
 </div>
-<div id="ref-Kossakowski-Groot-Haslbeck-2017" class="csl-entry" role="listitem">
+<div id="ref-Kossakowski-Groot-Haslbeck-etal-2017" class="csl-entry" role="listitem">
 Kossakowski, J. J., Groot, P. C., Haslbeck, J. M. B., Borsboom, D.,
 &amp; Wichers, M. (2017). Data from ’<span>Critical</span> slowing down
 as a personalized early warning signal for depression’. <em>Journal of
@@ -910,8 +962,7 @@ onset of depressive disorder in adolescence. <em>Emotion</em>,
 <div id="ref-Kurtzer-Sochat-Bauer-2017" class="csl-entry" role="listitem">
 Kurtzer, G. M., Sochat, V., &amp; Bauer, M. W. (2017).
 <span>Singularity</span>: Scientific containers for mobility of compute.
-<em><span>PLOS</span> <span>ONE</span></em>, <em>12</em>(5), e0177459.
-<a href="https://doi.org/10.1371/journal.pone.0177459">https://doi.org/10.1371/journal.pone.0177459</a>
+<em>PLOS ONE</em>, <em>12</em>(5), e0177459. <a href="https://doi.org/10.1371/journal.pone.0177459">https://doi.org/10.1371/journal.pone.0177459</a>
 </div>
 <div id="ref-Kwan-Chan-2011" class="csl-entry" role="listitem">
 Kwan, J. L. Y., &amp; Chan, W. (2011). Comparing standardized
@@ -929,6 +980,11 @@ correlation coefficients using structural equation modeling.
 Lachowicz, M. J., Preacher, K. J., &amp; Kelley, K. (2018). A novel
 measure of effect size for mediation analysis. <em>Psychological
 Methods</em>, <em>23</em>(2), 244–261. <a href="https://doi.org/10.1037/met0000165">https://doi.org/10.1037/met0000165</a>
+</div>
+<div id="ref-Lakens-Scheel-Isager-2018" class="csl-entry" role="listitem">
+Lakens, D., Scheel, A. M., &amp; Isager, P. M. (2018). Equivalence
+testing for psychological research: A tutorial. <em>Advances in Methods
+and Practices in Psychological Science</em>, <em>1</em>(2), 259–269. <a href="https://doi.org/10.1177/2515245918770963">https://doi.org/10.1177/2515245918770963</a>
 </div>
 <div id="ref-Leffingwell-Cooney-Murphy-etal-2013" class="csl-entry" role="listitem">
 Leffingwell, T. R., Cooney, N. J., Murphy, J. G., Luczak, S., Rosen, G.,
@@ -993,13 +1049,12 @@ Miocevic, M., Gonzalez, O., Valente, M. J., &amp; MacKinnon, D. P.
 analysis. <em>Structural Equation Modeling: A Multidisciplinary
 Journal</em>, <em>25</em>(1), 121–136. <a href="https://doi.org/10.1080/10705511.2017.1342541">https://doi.org/10.1080/10705511.2017.1342541</a>
 </div>
-<div id="ref-Moeyaert-Ugille-Beretvas-2017" class="csl-entry" role="listitem">
-Moeyaert, M., Ugille, M., Natasha Beretvas, S., Ferron, J., Bunuan, R.,
-&amp; Van den Noortgate, W. (2017). Methods for dealing with multiple
-outcomes in meta-analysis: A comparison between averaging effect sizes,
-robust variance estimation and multilevel meta-analysis.
-<em>International Journal of Social Research Methodology</em>,
-<em>20</em>(6), 559–572. <a href="https://doi.org/10.1080/13645579.2016.1252189">https://doi.org/10.1080/13645579.2016.1252189</a>
+<div id="ref-Moeyaert-Ugille-Beretvas-etal-2017" class="csl-entry" role="listitem">
+Moeyaert, M., Ugille, M., Beretvas, S. N., Ferron, J., Bunuan, R., &amp;
+Van den Noortgate, W. (2017). Methods for dealing with multiple outcomes
+in meta-analysis: A comparison between averaging effect sizes, robust
+variance estimation and multilevel meta-analysis. <em>International
+Journal of Social Research Methodology</em>, <em>20</em>(6), 559–572. <a href="https://doi.org/10.1080/13645579.2016.1252189">https://doi.org/10.1080/13645579.2016.1252189</a>
 </div>
 <div id="ref-Molenaar-2017" class="csl-entry" role="listitem">
 Molenaar, P. C. M. (2017). Equivalent dynamic models. <em>Multivariate
@@ -1348,7 +1403,7 @@ Wang, L., &amp; Maxwell, S. E. (2015). On disaggregating between-person
 and within-person effects with longitudinal data using multilevel
 models. <em>Psychological Methods</em>, <em>20</em>(1), 63–83. <a href="https://doi.org/10.1037/met0000030">https://doi.org/10.1037/met0000030</a>
 </div>
-<div id="ref-Wichers-Groot-Psychosystems-2016" class="csl-entry" role="listitem">
+<div id="ref-Wichers-Groot-Psychosystems-etal-2016" class="csl-entry" role="listitem">
 Wichers, M., Groot, P. C., Psychosystems, ESM Group, &amp; EWS Group.
 (2016). Critical slowing down as a personalized early warning signal for
 depression. <em>Psychotherapy and Psychosomatics</em>, <em>85</em>(2),
