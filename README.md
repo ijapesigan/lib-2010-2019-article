@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-10-24
+2026-10-26
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -693,6 +693,15 @@ Fisher, A. J., Reeves, J. W., Lawyer, G., Medaglia, J. D., & Rubel, J.
 A. (2017). Exploring the idiographic dynamics of mood and anxiety via
 network analysis. *Journal of Abnormal Psychology*, *126*(8), 1044–1056.
 <https://doi.org/10.1037/abn0000311>
+
+</div>
+
+<div id="ref-Fisher-Bollen-Gates-2019" class="csl-entry">
+
+Fisher, Z. F., Bollen, K. A., & Gates, K. M. (2019). A limited
+information estimator for dynamic factor models. *Multivariate
+Behavioral Research*, *54*(2), 246–263.
+<https://doi.org/10.1080/00273171.2018.1519406>
 
 </div>
 
