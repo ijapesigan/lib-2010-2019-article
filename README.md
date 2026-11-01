@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-10-26
+2026-11-01
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -106,6 +106,14 @@ Therapy*, *47*(6), 838–853. <https://doi.org/10.1016/j.beth.2016.11.005>
 Barnett, N. P. (2015). Alcohol sensors and their potential for improving
 clinical care. *Addiction*, *110*(1), 1–3.
 <https://doi.org/10.1111/add.12764>
+
+</div>
+
+<div id="ref-Bates-Machler-Bolker-etal-2015" class="csl-entry">
+
+Bates, D., Mächler, M., Bolker, B., & Walker, S. (2015). Fitting linear
+mixed-effects models using <span class="nocase">lme4</span>. *Journal of
+Statistical Software*, *67*(1). <https://doi.org/10.18637/jss.v067.i01>
 
 </div>
 
