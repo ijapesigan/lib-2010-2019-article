@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-01
+2026-11-02
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -44,6 +44,15 @@ Royal Statistical Society. Series A (Statistics in Society)*, *175*(4),
 Albert, J. M., Li, Y., Sun, J., Woyczynski, W. A., & Nelson, S. (2019).
 Continuous-time causal mediation analysis. *Statistics in Medicine*,
 *38*(22), 4334–4347. <https://doi.org/10.1002/sim.8300>
+
+</div>
+
+<div id="ref-Algina-Keselman-Penfield-2010" class="csl-entry">
+
+Algina, J., Keselman, H. J., & Penfield, R. D. (2010). Confidence
+intervals for squared semipartial correlation coefficients: The effect
+of nonnormality. *Educational and Psychological Measurement*, *70*(6),
+926–940. <https://doi.org/10.1177/0013164410379335>
 
 </div>
 
@@ -435,6 +444,13 @@ population. *Child & Youth Care Forum*, *44*(2), 159–174.
 
 </div>
 
+<div id="ref-Cumming-2014" class="csl-entry">
+
+Cumming, G. (2014). The new statistics: Why and how. *Psychological
+Science*, *25*(1), 7–29. <https://doi.org/10.1177/0956797613504966>
+
+</div>
+
 <div id="ref-Curran-Bauer-2011" class="csl-entry">
 
 Curran, P. J., & Bauer, D. J. (2011). The disaggregation of
@@ -562,6 +578,15 @@ structural equation modeling with R package
 Driver, C. C., & Voelkle, M. C. (2018). Hierarchical Bayesian continuous
 time dynamic modeling. *Psychological Methods*, *23*(4), 774–799.
 <https://doi.org/10.1037/met0000168>
+
+</div>
+
+<div id="ref-Dudgeon-2016" class="csl-entry">
+
+Dudgeon, P. (2016). A comparative investigation of confidence intervals
+for independent variables in linear regression. *Multivariate Behavioral
+Research*, *51*(2-3), 139–153.
+<https://doi.org/10.1080/00273171.2015.1121372>
 
 </div>
 
@@ -1571,6 +1596,14 @@ Mathias, C. W., & Dougherty, D. M. (2019). Processing transdermal
 alcohol concentration (TAC) data to detect low-level drinking.
 *Alcohol*, *81*, 101–110.
 <https://doi.org/10.1016/j.alcohol.2018.08.014>
+
+</div>
+
+<div id="ref-Rosopa-Schaffer-Schroeder-2013" class="csl-entry">
+
+Rosopa, P. J., Schaffer, M. M., & Schroeder, A. N. (2013). Managing
+heteroscedasticity in general linear models. *Psychological Methods*,
+*18*(3), 335–351. <https://doi.org/10.1037/a0032553>
 
 </div>
 
