@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-02
+2026-11-05
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -314,6 +314,15 @@ R. H. (2013). Is resilience only skin deep?: Rural African Americans’
 socioeconomic status-related risk and competence in preadolescence and
 psychological adjustment and allostatic load at age 19. *Psychological
 Science*, *24*(7), 1285–1293. <https://doi.org/10.1177/0956797612471954>
+
+</div>
+
+<div id="ref-Carpenter-Gelman-Hoffman-etal-2017" class="csl-entry">
+
+Carpenter, B., Gelman, A., Hoffman, M. D., Lee, D., Goodrich, B.,
+Betancourt, M., Brubaker, M., Guo, J., Li, P., & Riddell, A. (2017).
+Stan: A probabilistic programming language. *Journal of Statistical
+Software*, *76*(1). <https://doi.org/10.18637/jss.v076.i01>
 
 </div>
 
@@ -781,6 +790,15 @@ Fritz, M. S., Taylor, A. B., & MacKinnon, D. P. (2012). Explanation of
 two anomalous results in statistical mediation analysis. *Multivariate
 Behavioral Research*, *47*(1), 61–87.
 <https://doi.org/10.1080/00273171.2012.640596>
+
+</div>
+
+<div id="ref-Gates-Molenaar-2012" class="csl-entry">
+
+Gates, K. M., & Molenaar, P. C. M. (2012). Group search algorithm
+recovers effective connectivity maps for individuals in homogeneous and
+heterogeneous samples. *NeuroImage*, *63*(1), 310–319.
+<https://doi.org/10.1016/j.neuroimage.2012.06.026>
 
 </div>
 
