@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-05
+2026-11-06
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -1886,6 +1886,14 @@ chained equations in R. *Journal of Statistical Software*, *45*(3).
 (2018). Prior sensitivity analysis in default bayesian structural
 equation modeling. *Psychological Methods*, *23*(2), 363–388.
 <https://doi.org/10.1037/met0000162>
+
+</div>
+
+<div id="ref-Vats-Flegal-Jones-2019" class="csl-entry">
+
+Vats, D., Flegal, J. M., & Jones, G. L. (2019). Multivariate output
+analysis for Markov chain Monte Carlo. *Biometrika*, *106*(2), 321–337.
+<https://doi.org/10.1093/biomet/asz002>
 
 </div>
 
