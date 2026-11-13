@@ -799,6 +799,16 @@ Behavioral Research*, *47*(1), 61–87.
 
 </div>
 
+<div id="ref-Garland-Geschwind-Peeters-etal-2015" class="csl-entry">
+
+Garland, E. L., Geschwind, N., Peeters, F., & Wichers, M. (2015).
+Mindfulness training promotes upward spirals of positive affect and
+cognition: Multilevel and autoregressive latent trajectory modeling
+analyses. *Frontiers in Psychology*, *6*.
+<https://doi.org/10.3389/fpsyg.2015.00015>
+
+</div>
+
 <div id="ref-Gates-Molenaar-2012" class="csl-entry">
 
 Gates, K. M., & Molenaar, P. C. M. (2012). Group search algorithm
@@ -1166,6 +1176,16 @@ Vacharkulksemsuk, T., Algoe, S. B., Brantley, M., & Fredrickson, B. L.
 social connections account for the upward spiral between positive
 emotions and vagal tone. *Psychological Science*, *24*(7), 1123–1132.
 <https://doi.org/10.1177/0956797612470827>
+
+</div>
+
+<div id="ref-Kok-Fredrickson-2010" class="csl-entry">
+
+Kok, B. E., & Fredrickson, B. L. (2010). Upward spirals of the heart:
+Autonomic flexibility, as indexed by vagal tone, reciprocally and
+prospectively predicts positive emotions and social connectedness.
+*Biological Psychology*, *85*(3), 432–436.
+<https://doi.org/10.1016/j.biopsycho.2010.09.005>
 
 </div>
 
