@@ -1,7 +1,7 @@
 lib-2010-2019-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-07
+2026-11-13
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -310,6 +310,16 @@ R. H. (2013). Is resilience only skin deep?: Rural African Americans’
 socioeconomic status-related risk and competence in preadolescence and
 psychological adjustment and allostatic load at age 19. *Psychological
 Science*, *24*(7), 1285–1293. <https://doi.org/10.1177/0956797612471954>
+
+</div>
+
+<div id="ref-Cabrieto-Adolf-Tuerlinckx-etal-2018" class="csl-entry">
+
+Cabrieto, J., Adolf, J., Tuerlinckx, F., Kuppens, P., & Ceulemans, E.
+(2018). Detecting long-lived autodependency changes in a multivariate
+system via change point detection and regime switching models.
+*Scientific Reports*, *8*(1), 15637.
+<https://doi.org/10.1038/s41598-018-33819-8>
 
 </div>
 
@@ -1584,6 +1594,18 @@ Brick, T. R., & Boker, S. M.</span> (2017). Many-level multilevel
 structural equation modeling: An efficient evaluation strategy.
 *Structural Equation Modeling: A Multidisciplinary Journal*, *24*(5),
 684–698. <https://doi.org/10.1080/10705511.2017.1293542>
+
+</div>
+
+<div id="ref-Ram-Conroy-Pincus-etal-2014" class="csl-entry">
+
+Ram, N., Conroy, D. E., Pincus, A. L., Lorek, A., Rebar, A., Roche, M.
+J., Coccia, M., Morack, J., Feldman, J., & Gerstorf, D. (2014).
+Examining the interplay of processes across multiple time-scales:
+Illustration with the <span class="nocase">Intraindividual Study of
+Affect, Health, and Interpersonal Behavior</span>
+(<span class="nocase">iSAHIB</span>). *Research in Human Development*,
+*11*(2), 142–160. <https://doi.org/10.1080/15427609.2014.906739>
 
 </div>
 
